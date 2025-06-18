@@ -7,7 +7,7 @@
 ---
 
 ## 🚀 Live Demo
-Once deployed: [https://yourdomain.com](https://yourdomain.com)
+Once deployed: [https://yourdomain.com](https://freedomproject.ai/)
 
 ---
 
