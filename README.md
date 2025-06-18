@@ -37,3 +37,4 @@ git clone https://github.com/yourusername/freedom-project-site.git
 cd freedom-project-site
 # freedom-project-site
 
+# redeploy fix
